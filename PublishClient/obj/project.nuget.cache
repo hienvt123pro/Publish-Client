@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9pvfU2FlqV71weE+YgPbpGhl9KrrnaRcLMvBcobasfsR8rZU6hEJ6TZubE5z97v6g8k6HzQw7VUp8oXs+yhPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hieng\\source\\repos\\PublishClient\\PublishClient\\PublishClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hieng\\.nuget\\packages\\mqttnet\\3.1.1\\mqttnet.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
